@@ -1,6 +1,6 @@
 ## Four * Four
 
-Kulim Park is a humanist sans serif typeface, with high x-height, open counter ‘a’, minimal degrees of contrast in stem width, inviting bowls and a design language aimed at encapsulating openness.
+Kulim Park is a humanist sans serif display typeface, directly informed by the shapes of 100 * 100mm (4 by 4) H5 house pile timber.
 
 ### Project documentation
 
