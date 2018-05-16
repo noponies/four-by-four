@@ -1,6 +1,6 @@
 ## Four * Four
 
-Kulim Park is a humanist sans serif display typeface, directly informed by the shapes of 100 * 100mm (4 by 4) H5 house pile timber.
+Four * Four a geometric sans serif display typeface, directly informed by the square shapes of 100 * 100mm (4inch * 4inch) H5 house pile timber.
 
 ### Project documentation
 
