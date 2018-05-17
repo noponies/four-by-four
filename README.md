@@ -2,6 +2,8 @@
 
 Four * Four a geometric sans serif display typeface, directly informed by the square shapes of 100 * 100mm (4inch * 4inch) H5 house pile timber.
 
+This typeface mediates on New Zealand's Statehouse programme, renovation projects, family bonding and the transitory, layered nature of place building.
+
 ### Project documentation
 
 Four * Four is part of a larger series of site specific typefaces completed as part of a masters project. Further details regarding this typefaces development are available here, [Project overview](docs/project-overview.md).
