@@ -22,12 +22,12 @@ Four * Four is offered in 'Rough Sawn' and 'Dressed' styles. Rough sawn keeps th
 Four * Four supports the full Western European character set.
 
 ### Bibliography
-Cross, J. (2001). What is Sense of Place?. Presentation, 12th Headwaters Conference, Western State College.
+Cross, J. (2001). _What is Sense of Place?._ Presentation, 12th Headwaters Conference, Western State College.
 
-OpenStreetMap contributors. (n.d.). OpenStreetMap. Retrieved from https://www.openstreetmap.org/#map= 17/-37.68886/176.14096
+OpenStreetMap contributors. (n.d.). _OpenStreetMap._ Retrieved from https://www.openstreetmap.org/#map= 17/-37.68886/176.14096
 
-Mauk, J. (2003). Location, Location, Location: The “Real” (E)states of Being, Writing, and Thinking in Composition. College English, 65(4), 368-388. doi:10.2307/3594240
+Mauk, J. (2003). _Location, Location, Location: The "Real" (E)states of Being, Writing, and Thinking in Composition._ College English, 65(4), 368-388. doi:10.2307/3594240
 
-McKay, B. (2013). A fresh look at the state house. Architecture Now. Retrieved 22 March 2018, from http://architecturenow.co.nz/articles/a-fresh-look-at-the-state-house/
+McKay, B. (2013). _A fresh look at the state house._ Architecture Now. Retrieved 22 March 2018, from http://architecturenow.co.nz/articles/a-fresh-look-at-the-state-house/
 
-Schrader, B. (2007). State housing. New Zealand Geographic. Retrieved 21 March 2018, from https://www.nzgeo.com/stories/state-housing/
+Schrader, B. (2007). _State housing._ New Zealand Geographic. Retrieved 21 March 2018, from https://www.nzgeo.com/stories/state-housing/
