@@ -1,0 +1,37 @@
+FONTLOG for Four * Four fonts
+
+This file provides detailed information on the Four * Four
+Font Software.
+
+This information should be distributed along with the 
+Four * Four fonts and any derivative works.
+
+Basic Font Information
+
+Four * Four a geometric sans serif display typeface, directly informed by the square shapes of 100 * 100mm (4inch * 4inch) H5 house pile timber.
+
+This typeface draws on New Zealand's Statehouse programme, renovation projects, family bonding and the transitory, layered nature of place building.
+
+More detailed information can be found here: https://noponies.github.io/four-by-four/
+
+More specifically, this release supports the following 
+Unicode ranges: Latin-1, 
+
+To contribute to the project contact Dale Sattler 
+at dale@noponies.com
+
+ChangeLog
+
+23 July 2018 (Dale Sattler) Four * Four
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Dale Sattler [Noponies]
+E: dale@noponies.com
+W: http://noponies.com
+D: Original Type Designer
